@@ -39,7 +39,9 @@ This series starts from step 0. It will guide you from creating a GitHub account
 
 ## Getting Started
 
-Follow the chapters in sequence under [`src`](src). Each chapter contains a file named `CHAPTER[X].md` with instructions.
+[`Chapter 1`](src/chapter1/CHAPTER1.md)
+[`Chapter 2`](src/chapter1/CHAPTER2.md)
+[`Chapter 3`](src/chapter1/CHAPTER3.md)
 
 ## Built With
 
