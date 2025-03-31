@@ -1,6 +1,5 @@
 # Follow each of the TODO COMMENTs in this file.
 
-# Variables
 # Below, we have a VARIABLE which is like a symbol that represents a value. You can assign a value to a VARIABLE using the '=' sign.
 # In code, we use quotes to represent text, and we call this a STRING.
 # TODO: Uncomment the line below. You can do this by removing the `#`. Next, assign your name to the `name` VARIABLE, enclosed in quotes. 

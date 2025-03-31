@@ -63,7 +63,7 @@ Once your Codespace starts, ensure it loads correctly in VS Code for Web.
 
 ![5](./assets/screenshots/5.png)
 
-Open the `hello_world.py` file under the `chapter` folder to see its contents. In Python, `print` is a function that displays the contents.
+Open the `hello_world.py` file under the `src/chapter1` folder to see its contents. In Python, `print` is a function that displays the contents.
 
 ### 5: Run This Command in your Terminal
 
