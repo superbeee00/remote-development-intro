@@ -1,10 +1,32 @@
+<!--
+MIT License
+
+Copyright (c) 2025 Aspire Coding Academy LLC
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://aspirecodingacademy.com">
     <img src="readme-assets/background_navy_rounded.svg" alt="Logo" width="240">
   </a>
-  <br>
   <h1 align="center">remote-development-intro</h1>
 
   <p align="center">Not to be confused with remote work, or remote controls</p>
@@ -27,7 +49,7 @@
 
 ## About
 
-This repository is part of [Aspire Coding Academy][aca-url]'s `Dream Library`. The `Dream Library` is a collection of open source content meant for use by educators and students alike. The `Dream Library` is licensed under the MIT License.
+This repository is part of [Aspire Coding Academy][aspirecodingacademy-url]'s [WIP Initiative][wip-initiative-url].
 
 Remote development is the practice of writing and running code on a separate machine rather than your local computer. Not to be confused with "Remote Work", which refers to working outside of a traditional office. Most software companies use remote development, even if the actual position is not remote.
 
@@ -39,13 +61,13 @@ This series starts from step 0. It will guide you from creating a GitHub account
 
 ## Getting Started
 
-[`Chapter 1`](src/chapter1/CHAPTER1.md)
-[`Chapter 2`](src/chapter1/CHAPTER2.md)
-[`Chapter 3`](src/chapter1/CHAPTER3.md)
+-   [`Chapter 1`](src/chapter1/CHAPTER1.md)
+-   [`Chapter 2`](src/chapter1/CHAPTER2.md)
+-   [`Chapter 3`](src/chapter1/CHAPTER3.md)
 
 ## Built With
 
-[![Markdown][markdown-shield]][markdown-url]
+[![Python][python-shield]][python-url]
 
 ## Contributing
 
@@ -60,7 +82,7 @@ Thank you for your interest in contributing to this project. Open source project
 
 ## Contact
 
-[contact@aspirecodingacademy.com](mailto:contact@aspirecodingacademy.com)
+[contact@aspirecodingacademy.com](mailto:hello@aspirecodingacademy.com)
 
 ## Acknowledgments
 
@@ -69,6 +91,11 @@ Thank you for your interest in contributing to this project. Open source project
 
 <!-- MARKDOWN LINKS -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+<!-- aca -->
+
+[aspirecodingacademy-url]: https://aspirecodingacademy.com
+[wip-initiative-url]: https://github.com/aspirecodingacademy/wip-initiative
 
 <!-- repo -->
 
@@ -94,10 +121,9 @@ Thank you for your interest in contributing to this project. Open source project
 
 <!-- license -->
 
-[license-shield]: https://img.shields.io/github/license/aspirecodingacademy/blog.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/aspirecodingacademy/remote-development-intro.svg?style=for-the-badge
 [license-url]: https://github.com/aspirecodingacademy/remote-development-intro/blob/master/LICENSE.txt
 
 <!-- acknowledgements -->
 
 [readme-template-url]: https://github.com/othneildrew/Best-README-Template
-[aca-url]: https://aspirecodingacademy.com
