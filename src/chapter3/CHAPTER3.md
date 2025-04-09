@@ -2,7 +2,7 @@
 
 Last chapter we walked through some coding 101s. In this chapter we are getting a taste of the flexibility of remote development. If you have ever interacted with sandbox coding platforms, you may have noticed some intentional guardrails. A common one is that many sandbox platforms cannot run servers that you can access via browser, for example when you are coding a website. Remote development doesn't have this limitation.
 
-[Previous Chapter](https://aspirecodingacademy.com/blog/remote-development-intro-2/)
+[⬅️ Previous Chapter](https://aspirecodingacademy.com/blog/remote-development-intro-2/)
 
 ## Goal
 

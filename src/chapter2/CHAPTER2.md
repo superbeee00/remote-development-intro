@@ -2,8 +2,7 @@
 
 It’s time to write some code. In this chapter we’re getting a taste of the coding workflow. Remote development is cool but it gets limited pretty quick if all you can do is work in a sandbox, which is not the goal of this series. But before getting to the meat of things we need to cover a few 101s.
 
-[Previous Chapter](https://aspirecodingacademy.com/blog/remote-development-intro-1/)
-[Next Chapter](https://aspirecodingacademy.com/blog/remote-development-intro-3/)
+[⬅️ Previous Chapter](https://aspirecodingacademy.com/blog/remote-development-intro-1/) | [➡️ Next Chapter](https://aspirecodingacademy.com/blog/remote-development-intro-3/)
 
 ## Goal
 
@@ -36,7 +35,7 @@ Read through all of the comments on the file and follow the instructions.
 -   **Git:** A distributed version control system for tracking changes in source code during software development.
 -   **Version Control System:** A tool that tracks changes in code, allowing collaboration and edit history preservation.
 
-Git is a version control system that you will want to get familiar with. In this chapter, we're just going to run four basic commands to get a taste.
+Git is a very important tool to learn in programming. Let's run 4 Git commands to get started.
 
 Run `git status` in your terminal to see which files have been changed and need to be committed.
 

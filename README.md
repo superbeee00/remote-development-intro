@@ -57,13 +57,13 @@ Remote development is the practice of writing and running code on a separate mac
 
 -   Internet Connection
 
-This series starts from step 0. It will guide you from creating a GitHub account, to writing your first program in a GitHub Codespace.
+This series requires no prior experience. It will guide you all the way from creating a GitHub account, to writing your first program in a GitHub Codespace.
 
 ## Getting Started
 
 -   [`Chapter 1`](src/chapter1/CHAPTER1.md)
--   [`Chapter 2`](src/chapter1/CHAPTER2.md)
--   [`Chapter 3`](src/chapter1/CHAPTER3.md)
+-   [`Chapter 2`](src/chapter2/CHAPTER2.md)
+-   [`Chapter 3`](src/chapter3/CHAPTER3.md)
 
 ## Built With
 
