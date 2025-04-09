@@ -2,7 +2,7 @@
 
 Welcome to Chapter 1 of ACA’s Remote Development Intro. By the end of this series, you'll have a working GitHub Codespace with a functional Python program. This chapter covers setup. If you're new to remote development, check out [our previous blog](https://aspirecodingacademy.com/blog/remote-development/) for an introduction. No prior experience is required—this guide is for beginners.
 
-[➡️ Next Chapter](https://aspirecodingacademy.com/blog/remote-development-intro-2/)
+[➡️ Next Chapter](../chapter2/CHAPTER2.md)
 
 ## Goal
 

@@ -2,7 +2,7 @@
 
 It’s time to write some code. In this chapter we’re getting a taste of the coding workflow. Remote development is cool but it gets limited pretty quick if all you can do is work in a sandbox, which is not the goal of this series. But before getting to the meat of things we need to cover a few 101s.
 
-[⬅️ Previous Chapter](https://aspirecodingacademy.com/blog/remote-development-intro-1/) | [➡️ Next Chapter](https://aspirecodingacademy.com/blog/remote-development-intro-3/)
+[⬅️ Previous Chapter](../chapter1/CHAPTER1.md) | [➡️ Next Chapter](../chapter3/CHAPTER3.md)
 
 ## Goal
 

@@ -2,7 +2,7 @@
 
 Last chapter we walked through some coding 101s. In this chapter we are getting a taste of the flexibility of remote development. If you have ever interacted with sandbox coding platforms, you may have noticed some intentional guardrails. A common one is that many sandbox platforms cannot run servers that you can access via browser, for example when you are coding a website. Remote development doesn't have this limitation.
 
-[⬅️ Previous Chapter](https://aspirecodingacademy.com/blog/remote-development-intro-2/)
+[⬅️ Previous Chapter](../chapter2/CHAPTER2.md)
 
 ## Goal
 
@@ -12,7 +12,7 @@ Start a server in Python that can be accessed via your browser.
 
 ### 1: Open your codespace
 
-On the forked repository from [Chapter 1](https://aspirecodingacademy.com/blog/remote-development-intro-1/), open or re-open your codespace.
+On the forked repository from [Chapter 1](../chapter1/CHAPTER1.md), open or re-open your codespace.
 
 ### 2: Run `pip install -r requirements.txt` in your terminal.
 
@@ -20,7 +20,7 @@ This is a command which installs the requirements listed in [`requirements.txt`]
 
 ### 3: Open the `server.py` file under `src/chapter3`.
 
-Fill in the TODO comments at the top of the file. Look back to [Chapter 2](https://aspirecodingacademy.com/blog/remote-development-intro-2/) for a refresher on variables, strings, and numbers.
+Fill in the TODO comments at the top of the file. Look back to [Chapter 2](../chapter2/CHAPTER2.md) for a refresher on variables, strings, and numbers.
 
 ### 4: Your server
 
@@ -43,7 +43,7 @@ Since this is an introduction series, we are not going to go into the details of
 -   So when you run the command, it produces an address that lives on the codespace machine, which is somewhere in the nebula that is the GitHub data centers.
 -   So in order to access that address, we can use the url that codespaces gives us.
 
-### 5. Commit and push your change, using the same steps from [Chapter 2](https://aspirecodingacademy.com/blog/remote-development-intro-2/)
+### 5. Commit and push your change, using the same steps from [Chapter 2](../chapter2/CHAPTER2.md)
 
 Commit and push your changes to save progress.
 
